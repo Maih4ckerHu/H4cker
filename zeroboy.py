@@ -89,8 +89,8 @@ print " \x1b[1;93m============================================================="
 jalan("\033[1;93m               Hello         ")
 jalan("\033[1;93m.                  Everyone.    ")
 jalan("\033[1;93m.                      I am Mr.H4cker.      ")
-jalan("\033[1;93m.        " We Don't Forget  ") 
-jalan(" \033[1:93m.       " W. Don't Forgive  ")
+jalan("\033[1;93m.          We Don't Forget ") 
+jalan(" \033[1:93m.         We Don't Forgive ")
 
 
 CorrectUsername = "jbsn"
