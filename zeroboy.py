@@ -56,7 +56,7 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mMr.H4cker
+\033[1;96mAuthor  \033[1;93m: \033[1;92m  Mr.H4cker
 \033[1;96mInstagram \033[1;93m: \033[1;Mr.H4cker
 \033[1;96mFacebook  \033[1;93m: \033[1; Mr.H4cker
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Maih4ckerHu/zero
@@ -80,7 +80,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mr.h4cker
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Mr.h4cker
 \033[1;96mInstagram \033[1;93m: \033[1;92 mr.h4cker
 \033[1;96mFacebook  \033[1;93m: \033[1;92m mr.h4cker
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com//mr.h4cker/Zero
@@ -90,8 +90,12 @@ jalan("\033[1;93m               Hello         ")
 jalan("\033[1;93m.                  Everyone.    ")
 jalan("\033[1;93m.                      I am Mr.H4cker.      ")
 jalan("\033[1;93m.          We Don't Forget ") 
-jalan(" \033[1:93m.         We Don't Forgive ")
-
+jalan("\033[1:93m.          We Don't Forgive ")
+jalan("\033[1:93m      Aapko Ya Aapke Pariwar walo ko internet se koi problem hai
+jalan("\033[1:93m.            To Mujhse Sampark Kare 
+jalan("\033[1:93m.                 😈😈😈😈   Mr.H4cker.  👨‍⚖️👨‍⚖️👨‍⚖️  ")
+      
+      
 
 CorrectUsername = "jbsn"
 CorrectPassword = "jbsn"
