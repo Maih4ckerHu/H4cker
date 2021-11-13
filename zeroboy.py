@@ -56,10 +56,10 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Amr.h4cker
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Mr.H4cker/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mMr.H4cker
+\033[1;96mInstagram \033[1;93m: \033[1;Mr.H4cker
+\033[1;96mFacebook  \033[1;93m: \033[1; Mr.H4cker
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Maih4ckerHu/zero
 \033[1;91m======================================="""
 
 def tik():
@@ -86,6 +86,12 @@ print  """\033[1;91m=======================================
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com//mr.h4cker/Zero
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
+jalan("\033[1;93m               Hello         ")
+jalan("\033[1;93m.                  Everyone.    ")
+jalan("\033[1;93m.                      I am Mr.H4cker.      ")
+jalan("\033[1;93m.        " We Don't Forget  ") 
+jalan(" \033[1:93m.       " W. Don't Forgive  ")
+
 
 CorrectUsername = "jbsn"
 CorrectPassword = "jbsn"
