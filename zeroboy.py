@@ -91,8 +91,8 @@ jalan("\033[1;93m.                  Everyone.    ")
 jalan("\033[1;93m.                      I am Mr.H4cker.      ")
 jalan("\033[1;93m.          We Don't Forget ") 
 jalan("\033[1:93m.          We Don't Forgive ")
-jalan("\033[1:93m      Aapko Ya Aapke Pariwar walo ko internet se koi problem hai
-jalan("\033[1:93m.            To Mujhse Sampark Kare 
+jalan("\033[1:93m      Aapko Ya Aapke Pariwar walo ko internet se koi problem hai ")
+jalan("\033[1:93m.            To Mujhse Sampark Kare ")
 jalan("\033[1:93m.                 😈😈😈😈   Mr.H4cker.  👨‍⚖️👨‍⚖️👨‍⚖️  ")
       
       
